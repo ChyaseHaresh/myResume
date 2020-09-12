@@ -1,0 +1,144 @@
+body{
+	width: 99%;
+	background-color: #D5D8DC;
+}
+.avatar {
+  vertical-align: middle; width: 250px; height: 250px; border-radius: 50%; margin-left: 15px;
+}
+#personal{
+	width: 400px; background-color: #515A5A; padding: 1px; padding-bottom: 15px; margin-left: 50px;
+	box-shadow: 3px 3px 3px #808B96; color: white;
+}
+.me{ 
+	padding: 2px; margin-left: auto; margin-right: auto; font-size: 25.5px; margin-left: 15px;
+}
+h3{
+	 padding-bottom: 0px; color: blue;
+}
+.loc{
+	position: relative; width: 35px; height: 37px;
+}
+#location{
+	display: inline-flex;
+}
+#addre{
+	position: absolute; top: 533px; left: 120px;
+}
+.fb{
+	position: relative; width: 49px; height: 38px; left: -5px;
+}
+#face{
+	position: absolute; top: 577px; left: 120px;
+}
+.em{
+		position: relative; width: 32px; height: 30px; left: 2px;
+}
+#add{
+		position: absolute; top: 618px; left: 120px;
+}
+.ca{
+			position: relative; width: 32px; height: 30px; left: 2px;
+}
+#cal{
+		position: absolute; top: 657px; left: 120px;
+}
+h5{
+	position:relative; left: 85px; color: #3498DB;
+}
+.ps{
+	position: absolute; top: 845px; left: 100px; width: 260px;
+}
+.il{
+	position: absolute; top: 907px; left: 100px; width: 260px;
+}
+.id{
+	position: absolute; top: 967px; left: 100px; width: 260px;
+}
+.w{
+	position: absolute; top: 1026px; left: 100px; width: 260px;
+}
+.p{
+	position: absolute; top: 1088px; left: 100px; width: 260px;
+}
+
+.b{
+	position: absolute; top: 1144px; left: 100px; width: 260px;
+}
+.d{
+	position: absolute; top: 1208px; left: 100px; width: 260px;
+}
+
+#name{
+	background-color: #A9DFBF;
+	float: right; text-align: center;font-size: 50px;
+	width: 55%; position: absolute; top: 7px; left: 480px;
+	box-shadow: 3px 3px 3px #808B96; color: #28B463;
+
+}
+
+#edu{
+	background-color: #BB8FCE; width: 55%; position: absolute; left: 480px; top: 237px; 
+	padding-bottom: 230px; 
+	box-shadow: 3px 3px 3px #808B96;
+	font-size: 23px;
+}
+.educ{
+	position: absolute; left: 7px; float: left;
+}
+.slc{
+	position: absolute; left: 10px; top: 33px; float: right;
+}
+.school{
+	position: absolute; left: 200px; top: 37px; color: #F1C40F;
+}
+hr{
+	position: absolute; top: 35px; font-size: 10px;
+}
+.p2{
+	position: absolute; left: 10px; top: 98px; float: right;
+}
+.col{
+	position: absolute; left: 200px; top: 98px; color: green;
+}
+.bach{
+	position: absolute; left: 10px; top: 160px; float: right;
+}
+.college{
+	position: absolute; left: 200px; top: 165px; color: red
+}
+#experience{
+	position: absolute; top: 520px; width: 55%; left: 480px; background-color: #3498DB; font-size: 23px;
+	box-shadow: 3px 3px 3px #808B96;
+}
+.exp{
+	font-size: 22px; color: yellow;
+}
+#hobby{
+	position: absolute; top: 775px; width: 55%; left: 480px; background-color: #F5B7B1; font-size: 23px;
+	box-shadow: 3px 3px 3px #808B96; display: flex; padding-bottom: 180px;
+}
+.mus{
+	width: 130px; height: 130px; position: absolute; left: 540px; top: 80px;
+}
+.re{
+	width: 130px; height: 130px; position: absolute; left: 377px; top: 80px;
+}
+.ed{
+	width: 130px; height: 130px; position: absolute; left: 50px; top: 80px;
+}
+.ch{
+	width: 130px; height: 130px; position: absolute; left: 210px; top: 80px;
+}
+footer{
+	position: absolute; top: 1070px; width: 55%; left: 480px; background-color: #283747; font-size: 23px;
+	box-shadow: 3px 3px 3px #808B96; padding-bottom: 159px;
+}
+.foot{
+	position: absolute; top: 50px; text-align: center; left: 170px;
+}
+h6{
+	color: aqua;
+}
+a{
+	text-decoration: none;
+}
